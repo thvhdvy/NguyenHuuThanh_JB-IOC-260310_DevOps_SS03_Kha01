@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 sudo useradd -m -s rikkeilms
 sudo mkdir -p /opt/rikkei/course-service
 sudo chown rikkeilms:rikkeilms /opt/rikkei/course-service
